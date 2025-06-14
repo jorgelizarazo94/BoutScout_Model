@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://wildlabs.net/" target="_blank">
-    <img src="assets/logoboutscout.png" width="900px" />
+    <img src="assets/logoboutscout.png" width="600px" />
   </a>
 </p>
 
