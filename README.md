@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://wildlabs.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/jorgelizarazo94/BoutScout_Model/blob/f8845ffe4c71b15f58223d48cdbd3a413e1a72d7/assets/logo_boutscout.png" width="800px" />
+    <img src="https://raw.githubusercontent.com/jorgelizarazo94/BoutScout_Model/main/assets/logo_boutscout.png" width="800px" />
   </a>
 </p>
 
