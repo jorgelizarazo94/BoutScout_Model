@@ -9,7 +9,7 @@
 
 # Datasets grandes
 /data/
-/*/data/
+
 *.tif
 *.shp
 *.npz
