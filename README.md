@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wildlabs.net/" target="_blank">
+  <a href="https://wildlabs.net/discussion/wildlabs-awards-2024-boutscout-monitoring-system-avian-nesting-behavior-studies" target="_blank">
     <img src="assets/logoboutscout.png" width="600px" />
   </a>
 </p>
