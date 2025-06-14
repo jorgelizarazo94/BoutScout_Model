@@ -1,4 +1,6 @@
 # Ignorar todo excepto notebooks y modelos
+
+# Archivos de datos comunes
 *.csv
 *.xlsx
 *.zip
@@ -7,12 +9,21 @@
 
 # Datasets grandes
 /data/
-*/data/
+/*/data/
 *.tif
 *.shp
 *.npz
 *.npy
 
-# Archivos de sistema
+# Entornos y caché
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Archivos de sistema y de desarrollo
 *.log
 *.tmp
+.idea/
+*.pyc
+.DS_Store
