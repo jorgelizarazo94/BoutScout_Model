@@ -1,0 +1,18 @@
+# Ignorar todo excepto notebooks y modelos
+*.csv
+*.xlsx
+*.zip
+*.json
+*.txt
+
+# Datasets grandes
+/data/
+*/data/
+*.tif
+*.shp
+*.npz
+*.npy
+
+# Archivos de sistema
+*.log
+*.tmp
