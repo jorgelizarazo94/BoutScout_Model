@@ -57,9 +57,9 @@ You should provide a CSV or DataFrame-like structure with:
 BoutScout_Model/
 │
 ├── notebooks/
-│   ├── 01_preprocessing.ipynb
-│   ├── 02_model_training.ipynb
-│   └── 03_model_evaluation.ipynb
+│   ├── supplementary_1.ipynb # First Modelling 8/2
+│   ├── supplementary_2.ipynb # Cross Validation 5-Fold Modelling
+│   └── supplementary_3.ipynb # Final Modelling Full-dataset
 ├── model/
 │   └── modelo_entrenado_final_total.pth
 ├── assets/
