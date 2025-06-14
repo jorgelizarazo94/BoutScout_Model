@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://wildlabs.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/jorgelizarazo94/BoutScout_Model/main/assets/logoboutscout.png" width="800px" />
+    <img src="assets/logoboutscout.png" width="900px" />
   </a>
 </p>
 
@@ -89,10 +89,14 @@ For questions, collaboration, or access to training data:
 📧 jorge.lizarazo.b@gmail.com  
 🐛 [GitHub Issues](https://github.com/jorgelizarazo94/BoutScout_Model/issues)
 
+
 ---
 
 <p align="center">
   <a href="https://wildlabs.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/jorgelizarazo94/BoutScout_Model/blob/f8845ffe4c71b15f58223d48cdbd3a413e1a72d7/assets/logo.png" width="800px" />
+    <img src="assets/logo.png" width="800px" />
   </a>
 </p>
+
+
+*Nature pens the mysteries; we humbly decipher them*
