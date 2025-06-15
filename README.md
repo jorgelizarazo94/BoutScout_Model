@@ -86,8 +86,8 @@ pip install -r requirements.txt
 ## **Contact**
 
 For questions, collaboration, or access to more information:  
-📧 jorge.lizarazo.b@gmail.com  
-🐛 [GitHub Issues](https://github.com/jorgelizarazo94/BoutScout_Model/issues)
+🦉 jorge.lizarazo.b@gmail.com  
+🐣 [GitHub Issues](https://github.com/jorgelizarazo94/BoutScout_Model/issues)
 
 https://jorgelizarazo.link/
 
