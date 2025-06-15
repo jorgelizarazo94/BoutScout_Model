@@ -1,7 +1,7 @@
 # Ignorar todo excepto notebooks y modelos
 
 # Archivos de datos comunes
-*.csv
+#*.csv
 *.xlsx
 *.zip
 *.json
