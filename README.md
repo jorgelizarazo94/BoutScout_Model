@@ -8,7 +8,7 @@
 
 BoutScout is a deep learning-based tool designed to automatically classify avian incubation behavior from nest temperature time series. It helps researchers detect **on-bouts**, **off-bouts**, and **nocturnal incubation** using a BiLSTM architecture trained on thousands of annotated days across diverse tropical bird species.
 
-This repository contains a cleaned and organized version of the final model, supplementary notebooks, and scripts used for testing and deployment. All files were versioned and pushed directly from a local development environment using PyCharm and Git.
+This repository contains a cleaned and organized version of the final model, supplementary notebooks, and scripts used for testing and deployment. Local development using PyCharm.
 
 ---
 
