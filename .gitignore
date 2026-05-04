@@ -28,3 +28,31 @@ __pycache__/
 .idea/
 *.pyc
 .DS_Store
+
+# --- BoutScout agent + API additions ---
+
+# Agent memory, logs, and local process files
+prometeo/
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Final model artifacts (heavy binaries)
+API/*.pkl
+API/*.pth
+API/*.pt
+API/*.onnx
+
+# Optional heavy training outputs
+modelo_fi_total/*.pkl
+modelo_fi_total/*.pth
+modelo_fi_total/*.pt
+modelo_fi_total/*.onnx
+
+# Allow API metadata (override the global *.json / *.txt ignores)
+!API/feature_schema.json
+!API/label_map.json
+!API/model_card.json
+!API/requirements_gpu.txt
+!requirements.txt
+!README.md
